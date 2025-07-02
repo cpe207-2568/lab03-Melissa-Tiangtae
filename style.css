@@ -1,0 +1,63 @@
+.style1{
+    color: rgb(114, 24, 36);
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+.style2{
+    color: rgb(114, 24, 36);
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+.style3{
+    color: rgb(38, 46, 122);
+     text-decoration: underline;
+    
+}
+
+
+img{
+    border: 1px 
+}
+
+#p2{
+    border: 2px solid rgb(110, 27, 85);
+    margin: 50px;
+    width: 520px;
+    padding: 30px;
+    background-color: rgb(246, 236, 247);
+}
+
+#p3{
+
+   border: 2px ;
+  margin:  50px;
+    width: 800px;
+    padding: 10px;
+
+}
+
+#p4{
+  
+    margin: 50px;
+    padding: 30px;
+}
+
+.playpen-200{
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.playpen-400{
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: italic;
+}
+
+
